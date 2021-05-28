@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TFE Dummy App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Lighting">Lighting</string>
+    <string name="Device">Device</string>
+    <string name="Parameter">Parameter</string>
+    <string name="currentStatus">Current Status</string>
+    <string name="TAP">Total Active Power (KWhr)</string>
+    <string name="Voltage">Voltage(V)</string>
+    <string name="maleToilet">Male Toilet Hand Dryer</string>
+    <string name="femaleToilet">Female Toilet Hand Dryer</string>
+    <string name="address">Address</string>
+    <string name="district">District</string>
+    <string name="location">Location</string>
+    <string name="device_order">Device</string>
+    <string name="status_details">Status Details</string>
+    <string name="actions">Actions</string>
+    <string name="actions_text">Actions:</string>
+    <string name="observation">Observation:</string>
+    <string name="DeviceGroup">Device Group</string>
+    <string name="DeviceStatus">Device Status</string>
+    <string name="Lighting1">Lighting 1</string>
+    <string name="Lighting2">Lighting 2</string>
+    <string name="Lighting3">Lighting 3</string>
+    <string name="MaleToilet">Male Toilet</string>
+    <string name="FemaleToilet">Female Toilet</string>
+    <string name="HandDryer">Hand Dryer</string>
+    <string name="stable">Stable Period</string>
+    <string name="wearOut">Wear Out Period</string>
+    <string name="rapidWearOut">Rapid Wear Out Period</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
