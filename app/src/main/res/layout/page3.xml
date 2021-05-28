@@ -49,6 +49,39 @@
 
 
                                 <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentLeft="true"
+                                    android:layout_gravity="left"
+                                    android:text="@string/orderNo"
+                                    android:textSize="15sp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_gravity="right"
+                                    android:text="T0001"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold" />
+
+
+                            </LinearLayout>
+
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="?android:attr/listDivider" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginVertical="10dp"
+                                android:orientation="vertical">
+
+
+                                <TextView
                                     android:id="@+id/device1"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -268,7 +301,7 @@
                                 android:id="@+id/device6"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="@string/observation"
+                                android:text="@string/prevObservation"
                                 android:textSize="15sp" />
 
                             <EditText
@@ -277,13 +310,14 @@
                                 android:layout_height="wrap_content"
                                 android:ems="10"
                                 android:gravity="start|top"
-                                android:inputType="textMultiLine" />
+                                android:inputType="textMultiLine"
+                                android:enabled="false"/>
 
                             <TextView
                                 android:id="@+id/currentStatus6"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="@string/actions_text"
+                                android:text="@string/prevActions_text"
                                 android:textSize="15sp" />
 
                             <EditText
@@ -292,7 +326,8 @@
                                 android:layout_height="wrap_content"
                                 android:ems="10"
                                 android:gravity="start|top"
-                                android:inputType="textMultiLine" />
+                                android:inputType="textMultiLine"
+                                android:enabled="false"/>
 
                         </LinearLayout>
 

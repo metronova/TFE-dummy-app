@@ -13,12 +13,15 @@
     <string name="femaleToilet">Female Toilet Hand Dryer</string>
     <string name="address">Address</string>
     <string name="district">District</string>
+    <string name="orderNo">Work Order Number</string>
     <string name="location">Location</string>
     <string name="device_order">Device</string>
     <string name="status_details">Status Details</string>
     <string name="actions">Actions</string>
     <string name="actions_text">Actions:</string>
+    <string name="prevActions_text">Previous Actions:</string>
     <string name="observation">Observation:</string>
+    <string name="prevObservation">Previous Observation:</string>
     <string name="DeviceGroup">Device Group</string>
     <string name="DeviceStatus">Device Status</string>
     <string name="Lighting1">Lighting 1</string>
