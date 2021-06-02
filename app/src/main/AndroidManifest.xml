@@ -19,13 +19,12 @@
             android:label="Work Order" />
         <activity
             android:name=".page2"
-            android:label="Device Status of Electrical Devices Group" />
+            android:label="A.I. Device Status by Groups" />
         <activity
             android:name=".MainActivity"
-            android:label="Real-time Electrical Measurements">
+            android:label="Celex Smart Toilet">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

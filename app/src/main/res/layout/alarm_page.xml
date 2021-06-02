@@ -150,8 +150,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginVertical="10dp"
-                            android:orientation="vertical">
+                            android:paddingVertical="10dp"
+                            android:orientation="vertical"
+                            android:background="@color/lightBlue">
 
 
                             <TextView
@@ -184,8 +185,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginVertical="10dp"
-                            android:orientation="vertical">
+                            android:paddingVertical="10dp"
+                            android:orientation="vertical"
+                            android:background="@color/lightBlue">
 
 
                             <TextView
@@ -217,8 +219,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginVertical="10dp"
-                            android:orientation="vertical">
+                            android:paddingVertical="10dp"
+                            android:orientation="vertical"
+                            android:background="@color/lightBlue">
 
 
                             <TextView
