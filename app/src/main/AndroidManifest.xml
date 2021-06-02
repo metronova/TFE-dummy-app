@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TFEDummyApp">
+        <activity android:name=".alarmPage"
+            android:label="Alarm Details" ></activity>
         <activity
             android:name=".page4"
-            android:label="Observation &amp; Actions Report for Work Order"></activity>
+            android:label="Observation &amp; Actions Report for Work Order" />
         <activity
             android:name=".page3"
             android:label="Work Order" />
@@ -21,7 +23,6 @@
         <activity
             android:name=".MainActivity"
             android:label="Real-time Electrical Measurements">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

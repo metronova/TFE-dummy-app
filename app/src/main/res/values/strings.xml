@@ -7,7 +7,7 @@
     <string name="Device">Device</string>
     <string name="Parameter">Parameter</string>
     <string name="currentStatus">Current Status</string>
-    <string name="TAP">Total Active Power (KWhr)</string>
+    <string name="TAP">Total Active Power (kWh)</string>
     <string name="Voltage">Voltage(V)</string>
     <string name="maleToilet">Male Toilet Hand Dryer</string>
     <string name="femaleToilet">Female Toilet Hand Dryer</string>
@@ -38,6 +38,19 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="nextAlarm">Next Alarm</string>
+    <string name="realTimeData">Real-time Data</string>
+    <string name="nameOfAlarm">Name of Alarm</string>
+    <string name="meterName">Meter Name</string>
+    <string name="parameter">Parameter</string>
+    <string name="threshold">Threshold</string>
+    <string name="condition">Condition</string>
+    <string name="presentValue">Present Value</string>
+    <string name="level">Level</string>
+    <string name="interval">Interval</string>
+    <string name="startTime">Start Time</string>
+    <string name="endTime">End Time</string>
+    <string name="Contact">Contact</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>

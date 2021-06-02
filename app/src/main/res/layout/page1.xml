@@ -83,41 +83,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/Voltage"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt1"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/Voltage"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus1"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt1"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -126,7 +96,10 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
+
+
 
                     </LinearLayout>
 
@@ -194,41 +167,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/TAP"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt2"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/TAP"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus2"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt2"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -237,6 +180,7 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
 
                     </LinearLayout>
@@ -306,41 +250,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/Voltage"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt3"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/Voltage"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus3"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt3"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -349,6 +263,7 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
 
                     </LinearLayout>
@@ -418,41 +333,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/TAP"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt4"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/TAP"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus4"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt4"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -461,7 +346,9 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
+
 
                     </LinearLayout>
 
@@ -530,41 +417,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/Voltage"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt5"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/Voltage"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus5"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt5"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -573,6 +430,7 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
 
                     </LinearLayout>
@@ -642,41 +500,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentLeft="true"
-                                    android:text="@string/Parameter"
+                                    android:text="@string/TAP"
                                     android:textSize="15sp" />
 
                                 <TextView
                                     android:id="@+id/parameterTxt6"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentRight="true"
-                                    android:text="@string/TAP"
-                                    android:textSize="20sp"
-                                    android:textStyle="bold" />
-
-                            </RelativeLayout>
-
-                        </LinearLayout>
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical">
-
-                            <RelativeLayout
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content">
-
-                                <TextView
-                                    android:id="@+id/currentStatus6"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_alignParentLeft="true"
-                                    android:text="@string/currentStatus"
-                                    android:textSize="15sp" />
-
-                                <TextView
-                                    android:id="@+id/currentStatusTxt6"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentRight="true"
@@ -685,7 +513,9 @@
                                     android:textStyle="bold" />
 
                             </RelativeLayout>
+
                         </LinearLayout>
+
 
                     </LinearLayout>
 
@@ -714,7 +544,12 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true">
 
-
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:onClick="alarmPage"
+                android:text="Alarms" />
 
             <Button
                 android:id="@+id/button3"

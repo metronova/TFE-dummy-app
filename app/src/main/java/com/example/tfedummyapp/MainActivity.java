@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.page1);
     }
 
+    public void alarmPage(View v){
+        startActivity(new Intent(this, alarmPage.class));
+    }
+
     public void nextPage1(View v) {
         startActivity(new Intent(this, page2.class));
     }
