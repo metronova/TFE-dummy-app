@@ -133,7 +133,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentRight="true"
                                 android:layout_gravity="right"
-                                android:text="SPM91#85_Voltage"
+                                android:text="Voltage"
                                 android:textSize="20sp"
                                 android:textStyle="bold" />
 
@@ -332,7 +332,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentLeft="true"
                                 android:layout_gravity="left"
-                                android:text="@string/startTime"
+                                android:text="@string/OccursFrom"
                                 android:textSize="15sp" />
 
                             <TextView
@@ -348,37 +348,6 @@
 
 
 
-                        <View
-                            android:layout_width="match_parent"
-                            android:layout_height="1dp"
-                            android:background="?android:attr/listDivider" />
-
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_marginVertical="10dp"
-                            android:orientation="vertical">
-
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_alignParentLeft="true"
-                                android:layout_gravity="left"
-                                android:text="@string/endTime"
-                                android:textSize="15sp" />
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_alignParentRight="true"
-                                android:layout_gravity="right"
-                                android:text="19:00"
-                                android:textSize="20sp"
-                                android:textStyle="bold" />
-
-                        </LinearLayout>
 
                         <View
                             android:layout_width="match_parent"
@@ -398,7 +367,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentLeft="true"
                                 android:layout_gravity="left"
-                                android:text="@string/Contact"
+                                android:text="@string/POC"
                                 android:textSize="15sp" />
 
                             <TextView

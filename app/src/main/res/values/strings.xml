@@ -48,9 +48,8 @@
     <string name="presentValue">Present Value</string>
     <string name="level">Level</string>
     <string name="interval">Interval</string>
-    <string name="startTime">Start Time</string>
-    <string name="endTime">End Time</string>
-    <string name="Contact">Contact</string>
+    <string name="OccursFrom">Out of Range Occurs From</string>
+    <string name="POC">Person in Change</string>
     <string name="normalLegend">Normal</string>
     <string name="wearOutLegend">Wear Out Period</string>
     <string name="rapidLegend">Rapid Wear Out Period</string>
