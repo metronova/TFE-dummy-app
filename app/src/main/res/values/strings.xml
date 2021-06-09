@@ -51,6 +51,7 @@
     <string name="OccursFrom">Out of Range Occurs From</string>
     <string name="POC">Person in Change</string>
     <string name="stableLegend">Stable Period</string>
+    <string name="normalLegend">Normal</string>
     <string name="wearOutLegend">Wear Out Period</string>
     <string name="rapidLegend">Rapid Wear Out Period</string>
     <string name="legendTxt">Legend for Device Status Indicator Color</string>
