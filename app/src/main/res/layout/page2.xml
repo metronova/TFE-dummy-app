@@ -895,7 +895,7 @@
                         android:layout_alignParentLeft="true"
                         android:layout_marginLeft="5sp"
                         android:layout_marginRight="15sp"
-                        android:text="@string/normalLegend"
+                        android:text="@string/stableLegend"
                         android:textSize="15sp" />
 
                     <Button
